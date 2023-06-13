@@ -1,0 +1,5 @@
+body, input, select, textarea{font-size:13pt;}
+.wrapper.style2 .container .profiles {
+  display: flex;
+  justify-content: center;
+}
